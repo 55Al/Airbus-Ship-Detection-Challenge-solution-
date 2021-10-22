@@ -70,7 +70,6 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-
 # PyBuilder
 target/
 Tests/HyperparameterOptimizationTest/.pytest_cache/v/cache/lastfailed
