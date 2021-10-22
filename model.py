@@ -159,3 +159,4 @@ def segnet(
     model = Model(inputs=inputs, outputs=outputs, name="SegNet")
 
     return model
+
