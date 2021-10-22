@@ -33,3 +33,5 @@ def data_gen_small(img_dir, mask_dir, lists, batch_size, dims, n_labels):
         imgs = np.array(imgs)
         labels = np.array(labels)
         yield imgs, labels
+
+        
